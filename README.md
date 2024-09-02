@@ -63,7 +63,7 @@ Predicción del peso para una persona de 170 cm: 70.0 kg
 ```
 ## Gráfica Generada
 
-![Gráfica de ECM vs. Épocas](/result/con_la_division.png)
+![Gráfica de ECM vs. Épocas](/results/con_la_division.png)
 
 ## Salida de Consola
 
