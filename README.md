@@ -61,3 +61,10 @@ Este comando ejecutará el script `main.py`, que:
 Parámetros después del entrenamiento: w = 0.5, b = 10.0
 Predicción del peso para una persona de 170 cm: 70.0 kg
 ```
+## Gráfica Generada
+
+![Gráfica de ECM vs. Épocas](/result/con_la_division.png)
+
+## Salida de Consola
+
+![Resultado de la Consola](/results/prediccion_del_modelo.png)
