@@ -15,8 +15,8 @@ Este proyecto utiliza Keras para construir y entrenar un modelo de regresión li
 Primero, clona este repositorio en tu máquina local (si es que aún no lo has hecho):
 
 ```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
-cd tu_repositorio
+https://github.com/gabykap29/linear-regression-keras-.git
+cd linear-regression-keras-
 ```
 
 2. Crear un Entorno con Conda
